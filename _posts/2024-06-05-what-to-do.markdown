@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "What to do Summer 2024"
+date:   2024-06-05 14:52:05 -0400
+categories: talky-time
+permalink: nyxt-secret-plans-2024
+---
+I want to propose long overdue user research into a new group.
+I want to revisit revenue strategy.
+
+**GIVEN**; a list of hundreds of things that can be done to improve the software.
+**UNDERSTANDING**; some of those things will improve the revenue, AND some will become obsolete.
+
+We must decide what to do with our valuable time resources. 
+
+
+## 2 matters for discussion
+- **metrics/green-light a UR plan**
+- **revenue plan** (we need to get one working or we starve, such is life)
+
+### [1] metrics
+- We have them to help us prioritize what to do now and in the future. 
+- We already agreed on 12 metrics though they are not yet fully setup for collection or display.
+- 9 of the 12 key metrics rely on command-tracking, which we do NOT have setup (for reasons).
+- the remaining 3 are either subjective, or lagging metrics. *(fun-to-use, # of donors, daily searches on searx*)
+- &rArr; we do NOT know empirically what to do.
+- Okay, so when you do NOT know the next best step to take... just take a step in a direction you suppose will be helpful. (macports anyone?) 
+- So... EITHER set up command-tracking, OR take another another step in a direction we suppose will be helpful. 
+- We DO know that one of our metrics `key actions taken in a week` is important, and we can work to improve it before it is measured.
+	- So, the next step might look like:
+		- Ignoring the 9/12 metrics we cannot track, as we test and improve the `key metrics` a user might take in a week.
+			- The `key actions` are (*creating an init file, invoking 50+ commands, connecting Slime or Swank, write a bug report, WM composition, importing bookmarks*) and they indicate user willingness to invest part of their 'tinkering-budget' in Nyxt, which demonstrates valuable engagement.
+			- We also assume that some number of `key actions` (~3?) is a leading indicator for 90 day retention.
+
+
+
+### [2] revenue plan
+- We appear to be somewhat stuck in "making it good enough" before selling the product.
+- We have a bunch of ideas for revenue and I want to get them into nice buckets (valuable, ignore, good enough to test, waiting on something, outside of our current capability...)
+- We need to bring focus and execution to continuing and improving the things that are making money now (donations, grants, direct selling extensions).
+- We need to revisit the plan for developing new ways to get that money
+
