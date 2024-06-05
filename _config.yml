@@ -22,7 +22,7 @@ title: Super Secret Plans For All To See
 email: thomas@atlas.engineer
 description: >- # this means to ignore newlines until "baseurl:"
   Building the world's first online research engine.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "Nyxt-secret-plans" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lansingthomas
 
